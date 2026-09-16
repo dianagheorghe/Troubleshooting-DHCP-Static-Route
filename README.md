@@ -524,7 +524,7 @@ show running-config
 This lab demonstrates practical troubleshooting across:
 
 - DHCP and APIPA
-- VLAN membership
+- VLAN
 - access ports
 - 802.1Q trunks
 - STP forwarding
