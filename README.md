@@ -1,4 +1,4 @@
-# CCNA Troubleshooting Lab: DHCP Failure Caused by an Incorrect Static Route
+# Troubleshooting Lab: DHCP Failure Caused by an Incorrect Static Route
 
 **Scenario:** Sales2 could not reach the Internet host `13.13.13.1`.  
 **Root cause:** an incorrect `/30` static route on `BR1-RTR1` overrode the correct OSPF `/24` path because of **Longest Prefix Match**.  
